@@ -1,0 +1,6 @@
+﻿  unoTwo.cpp
+f:\comp 170\george_cook_computer-game\george_cook_computer-game\unotwo.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\comp 170\george_cook_computer-game\george_cook_computer-game\unotwo.cpp(457): warning C4018: '<': signed/unsigned mismatch
+f:\comp 170\george_cook_computer-game\george_cook_computer-game\unotwo.cpp(503): warning C4018: '<': signed/unsigned mismatch
+  George_Cook_Computer-Game.vcxproj -> F:\Comp 170\George_Cook_Computer-Game\Debug\George_Cook_Computer-Game.exe
+  George_Cook_Computer-Game.vcxproj -> F:\Comp 170\George_Cook_Computer-Game\Debug\George_Cook_Computer-Game.pdb (Partial PDB)
